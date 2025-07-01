@@ -1,0 +1,3717 @@
+
+
+
+{
+  "stRA": {
+    "dDateDebutJour": "2024-03-13",
+    "dDateFinJour": "2024-03-13",
+    "dDateDebutMois": "2024-03-01",
+    "dDateFinMois": "2024-03-13",
+    "dDateDebutCumul": "2024-01-01",
+    "dDateFinCumul": "2024-03-13",
+    "stVenteJour": {
+      "nNbChambre": 38,
+      "nNbChambreHorsTO": 3,
+      "nNBChambresCorbeilles": 0,
+      "taTypeNuitee": {
+        "Bloquée": 34,
+        "B&B": 37,
+        "Demi pension": 1
+      },
+      "nNbNuitee": 67,
+      "nNbPDJ": 60,
+      "nTO": 56.72,
+      "nTOPersonne": 71.28,
+      "nPM": 222.97,
+      "nPMHBGT": 186.4,
+      "nRevParBrut": 126.46,
+      "nTrevPar": 253.66,
+      "nARPAR": 143.86,
+      "nRevParNet": 0,
+      "nSurclassement": 0,
+      "moPerteRevenu": 0,
+      "nPDJParNuitee": 0.9,
+      "nPDJPrixMoyen": 23.17,
+      "nCouvertMidi": 52,
+      "nCouvertSoir": 28,
+      "moCAMidi": 1999.8,
+      "moCASoir": 1300.8
+    },
+    "stVenteMois": {
+      "nNbChambre": 324,
+      "nNbChambreHorsTO": 92,
+      "nNBChambresCorbeilles": 1,
+      "taTypeNuitee": {
+        "Demi pension": 5,
+        "Bloquée": 522,
+        "B&B": 290,
+        "Standard": 22,
+        "Spéciale": 7
+      },
+      "nNbNuitee": 594,
+      "nNbPDJ": 402,
+      "nTO": 43.9,
+      "nTOPersonne": 60.43,
+      "nPM": 236.65,
+      "nPMHBGT": 208.01,
+      "nRevParBrut": 103.9,
+      "nTrevPar": 285.13,
+      "nARPAR": 125.18,
+      "nRevParNet": 0,
+      "nSurclassement": 0,
+      "moPerteRevenu": 0,
+      "nPDJParNuitee": 0.68,
+      "nPDJPrixMoyen": 23.15,
+      "nCouvertMidi": 1451,
+      "nCouvertSoir": 224,
+      "moCAMidi": 24041.28,
+      "moCASoir": 11240.52
+    },
+    "stVenteCumul": {
+      "nNbChambre": 1731,
+      "nNbChambreHorsTO": 535,
+      "nNBChambresCorbeilles": 9,
+      "taTypeNuitee": {
+        "B&B": 1496,
+        "Bloquée": 2285,
+        "Spéciale": 17,
+        "Standard": 99,
+        "Demi pension": 118,
+        "Pension": 1
+      },
+      "nNbNuitee": 2887,
+      "nNbPDJ": 2367,
+      "nTO": 36.27,
+      "nTOPersonne": 37.85,
+      "nPM": 245.1,
+      "nPMHBGT": 212.55,
+      "nRevParBrut": 88.91,
+      "nTrevPar": 285.5,
+      "nARPAR": 103.56,
+      "nRevParNet": 0,
+      "nSurclassement": 0,
+      "moPerteRevenu": 0,
+      "nPDJParNuitee": 0.82,
+      "nPDJPrixMoyen": 24.19,
+      "nCouvertMidi": 3821,
+      "nCouvertSoir": 1142,
+      "moCAMidi": 174698.77,
+      "moCASoir": 62414.99
+    },
+    "stCAJour": {
+      "stCAHbgt": {
+        "moCAChambre": 588,
+        "moCAChambreForfait": 6495.01,
+        "moNoShow": 0
+      },
+      "stCAExtra": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "4": 25,
+          "6": 29.5,
+          "8": 135
+        }
+      },
+      "stCAPdj": {
+        "moCAPdj": 0,
+        "moCAPdjForfait": 1390
+      },
+      "stCAResto": {
+        "moCACarte": 1148.2,
+        "moCAMenu": 1262,
+        "moCARestoForfait": 0,
+        "moCATraiteur": 0
+      },
+      "stCABar": {
+        "moCAVin": 89,
+        "tablTVA": [
+          {
+            "CodeTVA": "1",
+            "TauxTVA": 2.1,
+            "MontantFact": 370.1
+          },
+          {
+            "CodeTVA": "0",
+            "TauxTVA": 0,
+            "MontantFact": 0
+          },
+          {
+            "CodeTVA": "2",
+            "TauxTVA": 8.5,
+            "MontantFact": 376.3
+          }
+        ],
+        "tablTVAForfait": []
+      },
+      "stCAPresta": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "1": 55
+        }
+      },
+      "moCADebours": 0,
+      "moCASPA": 2446,
+      "moCAAppel": 0,
+      "moCALocationForfait": 0,
+      "moCAPauseForfait": 0,
+      "moCAPrestationForfait": 0,
+      "moCAAutreForfait": 0,
+      "nRemiseHotel": 0,
+      "nRemiseTPV": 2,
+      "moRemiseHotel": 0,
+      "moRemiseTPV": 5,
+      "nGratuit": 0,
+      "moMontantGratuit": 0,
+      "nOffert": 0,
+      "moMontantOffert": 0,
+      "moARACEncaisse": 810,
+      "moARACEncaisseNonFacture": 0,
+      "moARACFacture": 799,
+      "moARACRembourse": 0,
+      "moPrepaiement": 549,
+      "moKDOEncaisse": 895,
+      "moKDOEncaisseNonFacture": 0,
+      "moKDOFacture": 190,
+      "moCCRecharge": 0,
+      "moCCDeduit": 0,
+      "moCCRestant": 0,
+      "moTaxeDeSejour": 112,
+      "rCAHT": 13946.358641,
+      "rCATTC": 14521.11,
+      "tablTVA": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 233.227611
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 229.52349
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 0
+        }
+      ],
+      "tablTTC": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 11339.31
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 2929.8
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 140
+        }
+      ]
+    },
+    "stCAMois": {
+      "stCAHbgt": {
+        "moCAChambre": 22361.42,
+        "moCAChambreForfait": 45033.66,
+        "moNoShow": 0
+      },
+      "stCAExtra": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "4": 2759.5,
+          "6": 378,
+          "8": 1821
+        }
+      },
+      "stCAPdj": {
+        "moCAPdj": 25,
+        "moCAPdjForfait": 9280
+      },
+      "stCAResto": {
+        "moCACarte": 10877,
+        "moCAMenu": 12898,
+        "moCARestoForfait": 0,
+        "moCATraiteur": 0
+      },
+      "stCABar": {
+        "moCAVin": 287,
+        "tablTVA": [
+          {
+            "CodeTVA": "1",
+            "TauxTVA": 2.1,
+            "MontantFact": 3996.3
+          },
+          {
+            "CodeTVA": "2",
+            "TauxTVA": 8.5,
+            "MontantFact": 4792.5
+          },
+          {
+            "CodeTVA": "0",
+            "TauxTVA": 0,
+            "MontantFact": 0
+          }
+        ],
+        "tablTVAForfait": []
+      },
+      "stCAPresta": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "1": 355,
+          "3": 120,
+          "8": 1972
+        }
+      },
+      "moCADebours": 150,
+      "moCASPA": 22296.81,
+      "moCAAppel": 0,
+      "moCALocationForfait": 0,
+      "moCAPauseForfait": 0,
+      "moCAPrestationForfait": 0,
+      "moCAAutreForfait": 0,
+      "nRemiseHotel": 0,
+      "nRemiseTPV": 22,
+      "moRemiseHotel": 0,
+      "moRemiseTPV": 53.7,
+      "nGratuit": 7,
+      "moMontantGratuit": 32.9,
+      "nOffert": 2,
+      "moMontantOffert": 16,
+      "moARACEncaisse": 33304.9,
+      "moARACEncaisseNonFacture": 0,
+      "moARACFacture": 42593.31,
+      "moARACRembourse": 795.5,
+      "moPrepaiement": 549,
+      "moKDOEncaisse": 4667.5,
+      "moKDOEncaisseNonFacture": 389,
+      "moKDOFacture": 1465,
+      "moCCRecharge": 0,
+      "moCCDeduit": 0,
+      "moCCRestant": 0,
+      "moTaxeDeSejour": 1018,
+      "rCAHT": 134946.112692,
+      "rCATTC": 140421.19,
+      "tablTVA": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 2271.49305
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 2185.581728
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 0
+        }
+      ],
+      "tablTTC": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 110437.88
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 27898.31
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 1067
+        }
+      ]
+    },
+    "stCACumul": {
+      "stCAHbgt": {
+        "moCAChambre": 78093.67,
+        "moCAChambreForfait": 289832.19,
+        "moNoShow": 0
+      },
+      "stCAExtra": {
+        "moCAAutreForfait": 595,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "4": 8844.5,
+          "6": 2450.5,
+          "7": 99,
+          "8": 10991
+        }
+      },
+      "stCAPdj": {
+        "moCAPdj": 1715,
+        "moCAPdjForfait": 55550
+      },
+      "stCAResto": {
+        "moCACarte": 42990.75,
+        "moCAMenu": 66780.4,
+        "moCARestoForfait": 11912,
+        "moCATraiteur": 0
+      },
+      "stCABar": {
+        "moCAVin": 4855,
+        "tablTVA": [
+          {
+            "CodeTVA": "2",
+            "TauxTVA": 8.5,
+            "MontantFact": 27766.85
+          },
+          {
+            "CodeTVA": "1",
+            "TauxTVA": 2.1,
+            "MontantFact": 20179.86
+          },
+          {
+            "CodeTVA": "0",
+            "TauxTVA": 0,
+            "MontantFact": 0
+          }
+        ],
+        "tablTVAForfait": [
+          {
+            "CodeTVA": "1",
+            "TauxTVA": 2.1,
+            "MontantFact": 5488
+          },
+          {
+            "CodeTVA": "2",
+            "TauxTVA": 8.5,
+            "MontantFact": 6846
+          }
+        ]
+      },
+      "stCAPresta": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {
+          "1": 1777,
+          "2": 8284,
+          "3": 214,
+          "4": 2960.9,
+          "6": 3080,
+          "8": 32253
+        }
+      },
+      "moCADebours": 590,
+      "moCASPA": 117310.06,
+      "moCAAppel": 0,
+      "moCALocationForfait": 485,
+      "moCAPauseForfait": 1040,
+      "moCAPrestationForfait": 0,
+      "moCAAutreForfait": 0,
+      "nRemiseHotel": 10,
+      "nRemiseTPV": 144,
+      "moRemiseHotel": 858.5,
+      "moRemiseTPV": 411.21,
+      "nGratuit": 7,
+      "moMontantGratuit": 32.9,
+      "nOffert": 37,
+      "moMontantOffert": 434.5,
+      "moARACEncaisse": 194375.09,
+      "moARACEncaisseNonFacture": 1398.5,
+      "moARACFacture": 190472.1,
+      "moARACRembourse": 3114.5,
+      "moPrepaiement": 549,
+      "moKDOEncaisse": 19880.5,
+      "moKDOEncaisseNonFacture": 911,
+      "moKDOFacture": 7660,
+      "moCCRecharge": 0,
+      "moCCDeduit": 0,
+      "moCCRestant": 0,
+      "moTaxeDeSejour": 5152,
+      "rCAHT": 776747.481763,
+      "rCATTC": 808135.68,
+      "tablTVA": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 13008.556629
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 13227.629363
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 0
+        }
+      ],
+      "tablTTC": [
+        {
+          "CodeTVA": "1",
+          "TauxTVA": 2.1,
+          "MontantFact": 632463.87
+        },
+        {
+          "CodeTVA": "2",
+          "TauxTVA": 8.5,
+          "MontantFact": 168846.81
+        },
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 1673
+        }
+      ]
+    },
+    "stCACumulAnt": {
+      "stCAHbgt": {
+        "moCAChambre": 0,
+        "moCAChambreForfait": 0,
+        "moNoShow": 1567.3
+      },
+      "stCAExtra": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {}
+      },
+      "stCAPdj": {
+        "moCAPdj": 0,
+        "moCAPdjForfait": 0
+      },
+      "stCAResto": {
+        "moCACarte": 0,
+        "moCAMenu": 0,
+        "moCARestoForfait": 0,
+        "moCATraiteur": 0
+      },
+      "stCABar": {
+        "moCAVin": 0,
+        "tablTVA": [],
+        "tablTVAForfait": []
+      },
+      "stCAPresta": {
+        "moCAAutreForfait": 0,
+        "moCAAutrePrestation": 0,
+        "taType": {}
+      },
+      "moCADebours": 0,
+      "moCASPA": 0,
+      "moCAAppel": 0,
+      "moCALocationForfait": 0,
+      "moCAPauseForfait": 0,
+      "moCAPrestationForfait": 0,
+      "moCAAutreForfait": 0,
+      "nRemiseHotel": 0,
+      "nRemiseTPV": 0,
+      "moRemiseHotel": 0,
+      "moRemiseTPV": 0,
+      "nGratuit": 0,
+      "moMontantGratuit": 0,
+      "nOffert": 0,
+      "moMontantOffert": 0,
+      "moARACEncaisse": 3283731.36,
+      "moARACEncaisseNonFacture": -5707.07,
+      "moARACFacture": 3446838.97,
+      "moARACRembourse": 104629.38,
+      "moPrepaiement": 0,
+      "moKDOEncaisse": 188391.74,
+      "moKDOEncaisseNonFacture": 32918.93,
+      "moKDOFacture": 232905.17,
+      "moCCRecharge": 0,
+      "moCCDeduit": 0,
+      "moCCRestant": 0,
+      "moTaxeDeSejour": 0,
+      "rCAHT": 1567.3,
+      "rCATTC": 1567.3,
+      "tablTVA": [
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 0
+        }
+      ],
+      "tablTTC": [
+        {
+          "CodeTVA": "0",
+          "TauxTVA": 0,
+          "MontantFact": 1567.3
+        }
+      ]
+    },
+    "stEnCoursJours": {
+      "moEnCoursHotel": 26381.4,
+      "moEnCoursTPV": 54170.4
+    },
+    "stEnCoursMois": {
+      "moEnCoursHotel": 26381.4,
+      "moEnCoursTPV": 54170.4
+    },
+    "stEnCoursCumul": {
+      "moEnCoursHotel": 26381.4,
+      "moEnCoursTPV": 54170.4
+    },
+    "tablReglJour": [
+      {
+        "nIDModeReglement": 1,
+        "sLibelle": "Carte CB    ",
+        "moMontant": 4555.55
+      },
+      {
+        "nIDModeReglement": 9,
+        "sLibelle": "Virement    ",
+        "moMontant": 9772
+      },
+      {
+        "nIDModeReglement": 6,
+        "sLibelle": "Espèces     ",
+        "moMontant": 1232.05
+      },
+      {
+        "nIDModeReglement": 8,
+        "sLibelle": "Chq repas   ",
+        "moMontant": 10
+      },
+      {
+        "nIDModeReglement": 2,
+        "sLibelle": "Carte AE    ",
+        "moMontant": 16
+      }
+    ],
+    "tablReglMois": [
+      {
+        "nIDModeReglement": 9,
+        "sLibelle": "Virement    ",
+        "moMontant": 39908.74
+      },
+      {
+        "nIDModeReglement": 1,
+        "sLibelle": "Carte CB    ",
+        "moMontant": 91512.15
+      },
+      {
+        "nIDModeReglement": 6,
+        "sLibelle": "Espèces     ",
+        "moMontant": 15781.32
+      },
+      {
+        "nIDModeReglement": 11,
+        "sLibelle": "Ogone       ",
+        "moMontant": 0
+      },
+      {
+        "nIDModeReglement": 2,
+        "sLibelle": "Carte AE    ",
+        "moMontant": 1210.8
+      },
+      {
+        "nIDModeReglement": 12,
+        "sLibelle": "UP2PAY      ",
+        "moMontant": 2413.5
+      },
+      {
+        "nIDModeReglement": 4,
+        "sLibelle": "Chq Vacances",
+        "moMontant": 1315
+      },
+      {
+        "nIDModeReglement": 5,
+        "sLibelle": "Check Pays  ",
+        "moMontant": 570
+      },
+      {
+        "nIDModeReglement": 8,
+        "sLibelle": "Chq repas   ",
+        "moMontant": 81
+      },
+      {
+        "nIDModeReglement": 3,
+        "sLibelle": "Chèque      ",
+        "moMontant": 819.5
+      }
+    ],
+    "tablReglCumul": [
+      {
+        "nIDModeReglement": 1,
+        "sLibelle": "Carte CB    ",
+        "moMontant": 462700.08
+      },
+      {
+        "nIDModeReglement": 6,
+        "sLibelle": "Espèces     ",
+        "moMontant": 82157.51
+      },
+      {
+        "nIDModeReglement": 2,
+        "sLibelle": "Carte AE    ",
+        "moMontant": 19360.99
+      },
+      {
+        "nIDModeReglement": 4,
+        "sLibelle": "Chq Vacances",
+        "moMontant": 7272.5
+      },
+      {
+        "nIDModeReglement": 11,
+        "sLibelle": "Ogone       ",
+        "moMontant": 8524.76
+      },
+      {
+        "nIDModeReglement": 5,
+        "sLibelle": "Check Pays  ",
+        "moMontant": 2456.5
+      },
+      {
+        "nIDModeReglement": 8,
+        "sLibelle": "Chq repas   ",
+        "moMontant": 293
+      },
+      {
+        "nIDModeReglement": 9,
+        "sLibelle": "Virement    ",
+        "moMontant": 392641.2
+      },
+      {
+        "nIDModeReglement": 12,
+        "sLibelle": "UP2PAY      ",
+        "moMontant": 15090.5
+      },
+      {
+        "nIDModeReglement": 3,
+        "sLibelle": "Chèque      ",
+        "moMontant": 7676
+      }
+    ],
+    "stDebJour": {
+      "moMontantFacture": 6095.8,
+      "moMontantEncaisse": 9772
+    },
+    "stDebMois": {
+      "moMontantFacture": 36124.5,
+      "moMontantEncaisse": 38745.39
+    },
+    "stDebCumul": {
+      "moMontantFacture": 187667.37,
+      "moMontantEncaisse": 365163.39
+    },
+    "stDebCumulAnt": {
+      "moMontantFacture": 3481930.71,
+      "moMontantEncaisse": 3077168.92
+    }
+  },
+  "tablRATPV": [
+    {
+      "nIDTPV": 1,
+      "sLibelleTPV": "LE DOME",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 51,
+          "nCouvertSoir": 21,
+          "moCAMidi": 1620.3,
+          "moCASoir": 807.5
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 417,
+          "nCouvertSoir": 196,
+          "moCAMidi": 17793.5,
+          "moCASoir": 6980.6
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 1978,
+          "nCouvertSoir": 911,
+          "moCAMidi": 81730.05,
+          "moCASoir": 42493.9
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 884,
+            "moCAMenu": 1262,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 89,
+            "tablTVA": [
+              {
+                "CodeTVA": "0",
+                "TauxTVA": 0,
+                "MontantFact": 0
+              },
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 140.3
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 52.5
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 2372.56946,
+          "rCATTC": 2427.8,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 44.14521
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 11.085251
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 2146.3
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 140
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 141.5
+            }
+          ]
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 8653.3,
+            "moCAMenu": 12898,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 242,
+            "tablTVA": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 1575.8
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 1301
+              },
+              {
+                "CodeTVA": "0",
+                "TauxTVA": 0,
+                "MontantFact": 0
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "3": 120
+            }
+          },
+          "moCADebours": 150,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 1,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 7,
+          "moMontantGratuit": 32.9,
+          "nOffert": 2,
+          "moMontantOffert": 16,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 746,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 316,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 24352.999551,
+          "rCATTC": 24940.1,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 456.818514
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 130.281076
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 22210.1
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 1067
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 1663
+            }
+          ]
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 38772.45,
+            "moCAMenu": 66780.4,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 4052,
+            "tablTVA": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 6933.35
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 7266.75
+              },
+              {
+                "CodeTVA": "0",
+                "TauxTVA": 0,
+                "MontantFact": 0
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "3": 180
+            }
+          },
+          "moCADebours": 540,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 13,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 100.4,
+          "nGratuit": 7,
+          "moMontantGratuit": 32.9,
+          "nOffert": 31,
+          "moMontantOffert": 359.5,
+          "moARACEncaisse": 5165.5,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 6086.5,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 1694,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 869,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 121331.212152,
+          "rCATTC": 124524.95,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 2292.910481
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 900.82356
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 111479.2
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 1547
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 11498.75
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 25072,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 25230,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 5094,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 7688,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 2139.65
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 2139.65
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 2139.65
+        },
+        "tablReglJour": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 901.5
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 641
+          }
+        ],
+        "tablReglMois": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 13324.7
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 2921.9
+          },
+          {
+            "nIDModeReglement": 4,
+            "sLibelle": "Chq Vacances",
+            "moMontant": 310
+          },
+          {
+            "nIDModeReglement": 8,
+            "sLibelle": "Chq repas   ",
+            "moMontant": 71
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 220
+          },
+          {
+            "nIDModeReglement": 2,
+            "sLibelle": "Carte AE    ",
+            "moMontant": 177
+          },
+          {
+            "nIDModeReglement": 3,
+            "sLibelle": "Chèque      ",
+            "moMontant": 179.5
+          }
+        ],
+        "tablReglCumul": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 71069.07
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 18491.08
+          },
+          {
+            "nIDModeReglement": 8,
+            "sLibelle": "Chq repas   ",
+            "moMontant": 166
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 482
+          },
+          {
+            "nIDModeReglement": 4,
+            "sLibelle": "Chq Vacances",
+            "moMontant": 568
+          },
+          {
+            "nIDModeReglement": 2,
+            "sLibelle": "Carte AE    ",
+            "moMontant": 884
+          },
+          {
+            "nIDModeReglement": 12,
+            "sLibelle": "UP2PAY      ",
+            "moMontant": 1587
+          },
+          {
+            "nIDModeReglement": 3,
+            "sLibelle": "Chèque      ",
+            "moMontant": 721
+          }
+        ],
+        "stDebJour": {
+          "moMontantFacture": 215.8,
+          "moMontantEncaisse": 0
+        },
+        "stDebMois": {
+          "moMontantFacture": 988.8,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumul": {
+          "moMontantFacture": 1579.6,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 20575.7,
+          "moMontantEncaisse": 19297.2
+        }
+      }
+    },
+    {
+      "nIDTPV": 2,
+      "sLibelleTPV": "SPA",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 2446,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 75,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 895,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 190,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 2254.377868,
+          "rCATTC": 2446,
+          "tablTVA": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 191.622116
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 2446
+            }
+          ]
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 22296.81,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 2,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 22,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 334,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 259,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 3177.5,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 760,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 20550.055182,
+          "rCATTC": 22296.81,
+          "tablTVA": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 1746.754641
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 22296.81
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 117310.06,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 10,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 110,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 2014,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 1614,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 16121.5,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 5382,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 108119.870405,
+          "rCATTC": 117310.06,
+          "tablTVA": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 9190.188717
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 117310.06
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 21260.9,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 19019.4,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 110699.7,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 113699.2,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 338
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 338
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 338
+        },
+        "tablReglJour": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 1556
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 20
+          }
+        ],
+        "tablReglMois": [
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 1373
+          },
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 15285.01
+          },
+          {
+            "nIDModeReglement": 2,
+            "sLibelle": "Carte AE    ",
+            "moMontant": 266.3
+          },
+          {
+            "nIDModeReglement": 12,
+            "sLibelle": "UP2PAY      ",
+            "moMontant": 318
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 50
+          },
+          {
+            "nIDModeReglement": 4,
+            "sLibelle": "Chq Vacances",
+            "moMontant": 195
+          }
+        ],
+        "tablReglCumul": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 80216.96
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 9043
+          },
+          {
+            "nIDModeReglement": 4,
+            "sLibelle": "Chq Vacances",
+            "moMontant": 2163
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 326
+          },
+          {
+            "nIDModeReglement": 2,
+            "sLibelle": "Carte AE    ",
+            "moMontant": 1544.3
+          },
+          {
+            "nIDModeReglement": 9,
+            "sLibelle": "Virement    ",
+            "moMontant": 3051
+          },
+          {
+            "nIDModeReglement": 12,
+            "sLibelle": "UP2PAY      ",
+            "moMontant": 1095
+          }
+        ],
+        "stDebJour": {
+          "moMontantFacture": 140,
+          "moMontantEncaisse": 0
+        },
+        "stDebMois": {
+          "moMontantFacture": 820,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumul": {
+          "moMontantFacture": 1460,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 14945.1,
+          "moMontantEncaisse": 11235.6
+        }
+      }
+    },
+    {
+      "nIDTPV": 3,
+      "sLibelleTPV": "BAR",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 1,
+          "nCouvertSoir": 4,
+          "moCAMidi": 379.5,
+          "moCASoir": 438.3
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 1000,
+          "nCouvertSoir": 13,
+          "moCAMidi": 4275.78,
+          "moCASoir": 3904.92
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 1156,
+          "nCouvertSoir": 31,
+          "moCAMidi": 20381.32,
+          "moCASoir": 17797.09
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 264.2,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 229.8
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 323.8
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 2,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 5,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 782.272507,
+          "rCATTC": 817.8,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 10.160598
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 25.366815
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 494
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 323.8
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 2223.7,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 45,
+            "tablTVA": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 2420.5
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 3491.5
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 19,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 31.7,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 7808.124319,
+          "rCATTC": 8180.7,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 95.521973
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 277.052929
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 4644.2
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 3536.5
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 4218.3,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 489,
+            "tablTVA": [
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 20267.6
+              },
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 13241.51
+              }
+            ],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 50,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 121,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 200.81,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 6,
+          "moMontantOffert": 75,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 36281.20016,
+          "rCATTC": 38266.41,
+          "tablTVA": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 1626.092719
+            },
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 359.113623
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 20756.6
+            },
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 17459.81
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 50
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 396,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 396,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 933.35
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 933.35
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 933.35
+        },
+        "tablReglJour": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 301
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 199.8
+          },
+          {
+            "nIDModeReglement": 8,
+            "sLibelle": "Chq repas   ",
+            "moMontant": 10
+          }
+        ],
+        "tablReglMois": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 3269.5
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 1417.9
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 10
+          },
+          {
+            "nIDModeReglement": 8,
+            "sLibelle": "Chq repas   ",
+            "moMontant": 10
+          }
+        ],
+        "tablReglCumul": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 19127.71
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 6892.7
+          },
+          {
+            "nIDModeReglement": 5,
+            "sLibelle": "Check Pays  ",
+            "moMontant": 40
+          },
+          {
+            "nIDModeReglement": 8,
+            "sLibelle": "Chq repas   ",
+            "moMontant": 127
+          },
+          {
+            "nIDModeReglement": 4,
+            "sLibelle": "Chq Vacances",
+            "moMontant": 30
+          },
+          {
+            "nIDModeReglement": 9,
+            "sLibelle": "Virement    ",
+            "moMontant": 8
+          }
+        ],
+        "stDebJour": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebMois": {
+          "moMontantFacture": 31.7,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumul": {
+          "moMontantFacture": 36.7,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 693.2,
+          "moMontantEncaisse": 103
+        }
+      }
+    },
+    {
+      "nIDTPV": 5,
+      "sLibelleTPV": "RECEPTION",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 55
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 355
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 4,
+          "moCAMidi": 0,
+          "moCASoir": 1969
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "1": 55
+            }
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 53.868756,
+          "rCATTC": 55,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 1.131243
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 55
+            }
+          ]
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "1": 355
+            }
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 347.698333,
+          "rCATTC": 355,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 7.30166
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 355
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "1": 1777,
+              "3": 34,
+              "8": 158
+            }
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 1926.53717,
+          "rCATTC": 1969,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 39.799192
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 2.663594
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 1935
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            },
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 34
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 90,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "tablReglJour": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 41.25
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 13.75
+          }
+        ],
+        "tablReglMois": [
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 251.75
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 103.25
+          }
+        ],
+        "tablReglCumul": [
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 547.5
+          },
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 1383.5
+          }
+        ],
+        "stDebJour": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebMois": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumul": {
+          "moMontantFacture": 8.75,
+          "moMontantEncaisse": 8.75
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 90,
+          "moMontantEncaisse": 0
+        }
+      }
+    },
+    {
+      "nIDTPV": 6,
+      "sLibelleTPV": "SEMINAIRE",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 34,
+          "nCouvertSoir": 0,
+          "moCAMidi": 1972,
+          "moCASoir": 0
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 685,
+          "nCouvertSoir": 0,
+          "moCAMidi": 72542.4,
+          "moCASoir": 0
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "8": 1972
+            }
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 4600,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 1382,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 1931.439753,
+          "rCATTC": 1972,
+          "tablTVA": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 40.560233
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 1972
+            }
+          ]
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 11712,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 314,
+            "tablTVA": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 5
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 232.5
+              }
+            ],
+            "tablTVAForfait": [
+              {
+                "CodeTVA": "1",
+                "TauxTVA": 2.1,
+                "MontantFact": 5488
+              },
+              {
+                "CodeTVA": "2",
+                "TauxTVA": 8.5,
+                "MontantFact": 6846
+              }
+            ]
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {
+              "2": 8284,
+              "4": 2960.9,
+              "6": 3080,
+              "8": 32095
+            }
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 485,
+          "moCAPauseForfait": 1040,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 12672.5,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 20466.5,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 70091.237048,
+          "rCATTC": 72542.4,
+          "tablTVA": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 1301.510584
+            },
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 1149.652286
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "2",
+              "TauxTVA": 8.5,
+              "MontantFact": 16613.4
+            },
+            {
+              "CodeTVA": "1",
+              "TauxTVA": 2.1,
+              "MontantFact": 55895
+            },
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 34
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 221882.76,
+          "moARACEncaisseNonFacture": 1826.4,
+          "moARACFacture": 229076.16,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 50759.4
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 50759.4
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 50759.4
+        },
+        "tablReglJour": [
+          {
+            "nIDModeReglement": 9,
+            "sLibelle": "Virement    ",
+            "moMontant": 9772
+          }
+        ],
+        "tablReglMois": [
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 500
+          },
+          {
+            "nIDModeReglement": 3,
+            "sLibelle": "Chèque      ",
+            "moMontant": 640
+          },
+          {
+            "nIDModeReglement": 9,
+            "sLibelle": "Virement    ",
+            "moMontant": 11654
+          }
+        ],
+        "tablReglCumul": [
+          {
+            "nIDModeReglement": 9,
+            "sLibelle": "Virement    ",
+            "moMontant": 86055.57
+          },
+          {
+            "nIDModeReglement": 12,
+            "sLibelle": "UP2PAY      ",
+            "moMontant": 4450
+          },
+          {
+            "nIDModeReglement": 6,
+            "sLibelle": "Espèces     ",
+            "moMontant": 500
+          },
+          {
+            "nIDModeReglement": 3,
+            "sLibelle": "Chèque      ",
+            "moMontant": 6940
+          },
+          {
+            "nIDModeReglement": 1,
+            "sLibelle": "Carte CB    ",
+            "moMontant": 370
+          }
+        ],
+        "stDebJour": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 9772
+        },
+        "stDebMois": {
+          "moMontantFacture": 15185,
+          "moMontantEncaisse": 11412
+        },
+        "stDebCumul": {
+          "moMontantFacture": 38157.5,
+          "moMontantEncaisse": 71179.07
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 692837.64,
+          "moMontantEncaisse": 600355.02
+        }
+      }
+    },
+    {
+      "nIDTPV": 7,
+      "sLibelleTPV": "ROOM SERV",
+      "stRA": {
+        "dDateDebutJour": "2024-03-13",
+        "dDateFinJour": "2024-03-13",
+        "dDateDebutMois": "2024-03-01",
+        "dDateFinMois": "2024-03-13",
+        "dDateDebutCumul": "2024-01-01",
+        "dDateFinCumul": "2024-03-13",
+        "stVenteJour": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stVenteMois": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stVenteCumul": {
+          "nNbChambre": 0,
+          "nNbChambreHorsTO": 0,
+          "nNBChambresCorbeilles": 0,
+          "taTypeNuitee": {},
+          "nNbNuitee": 0,
+          "nNbPDJ": 0,
+          "nTO": 0,
+          "nTOPersonne": 0,
+          "nPM": 0,
+          "nPMHBGT": 0,
+          "nRevParBrut": 0,
+          "nTrevPar": 0,
+          "nARPAR": 0,
+          "nRevParNet": 0,
+          "nSurclassement": 0,
+          "moPerteRevenu": 0,
+          "nPDJParNuitee": 0,
+          "nPDJPrixMoyen": 0,
+          "nCouvertMidi": 0,
+          "nCouvertSoir": 0,
+          "moCAMidi": 0,
+          "moCASoir": 0
+        },
+        "stCAJour": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stCAMois": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stCACumul": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ],
+          "tablTTC": [
+            {
+              "CodeTVA": "0",
+              "TauxTVA": 0,
+              "MontantFact": 0
+            }
+          ]
+        },
+        "stCACumulAnt": {
+          "stCAHbgt": {
+            "moCAChambre": 0,
+            "moCAChambreForfait": 0,
+            "moNoShow": 0
+          },
+          "stCAExtra": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "stCAPdj": {
+            "moCAPdj": 0,
+            "moCAPdjForfait": 0
+          },
+          "stCAResto": {
+            "moCACarte": 0,
+            "moCAMenu": 0,
+            "moCARestoForfait": 0,
+            "moCATraiteur": 0
+          },
+          "stCABar": {
+            "moCAVin": 0,
+            "tablTVA": [],
+            "tablTVAForfait": []
+          },
+          "stCAPresta": {
+            "moCAAutreForfait": 0,
+            "moCAAutrePrestation": 0,
+            "taType": {}
+          },
+          "moCADebours": 0,
+          "moCASPA": 0,
+          "moCAAppel": 0,
+          "moCALocationForfait": 0,
+          "moCAPauseForfait": 0,
+          "moCAPrestationForfait": 0,
+          "moCAAutreForfait": 0,
+          "nRemiseHotel": 0,
+          "nRemiseTPV": 0,
+          "moRemiseHotel": 0,
+          "moRemiseTPV": 0,
+          "nGratuit": 0,
+          "moMontantGratuit": 0,
+          "nOffert": 0,
+          "moMontantOffert": 0,
+          "moARACEncaisse": 0,
+          "moARACEncaisseNonFacture": 0,
+          "moARACFacture": 0,
+          "moARACRembourse": 0,
+          "moPrepaiement": 0,
+          "moKDOEncaisse": 0,
+          "moKDOEncaisseNonFacture": 0,
+          "moKDOFacture": 0,
+          "moCCRecharge": 0,
+          "moCCDeduit": 0,
+          "moCCRestant": 0,
+          "moTaxeDeSejour": 0,
+          "rCAHT": 0,
+          "rCATTC": 0,
+          "tablTVA": [],
+          "tablTTC": []
+        },
+        "stEnCoursJours": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "stEnCoursMois": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "stEnCoursCumul": {
+          "moEnCoursHotel": 0,
+          "moEnCoursTPV": 0
+        },
+        "tablReglJour": [],
+        "tablReglMois": [],
+        "tablReglCumul": [],
+        "stDebJour": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebMois": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumul": {
+          "moMontantFacture": 0,
+          "moMontantEncaisse": 0
+        },
+        "stDebCumulAnt": {
+          "moMontantFacture": 74,
+          "moMontantEncaisse": 74
+        }
+      }
+    }
+  ]
+}
